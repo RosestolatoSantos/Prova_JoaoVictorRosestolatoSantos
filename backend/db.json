@@ -1,0 +1,25 @@
+{
+  "lojas_rede": [
+    {
+      "nome": "Acetona",
+      "preco": "22.43",
+      "validade": "22/12",
+      "codigo": "983",
+      "id": 2
+    },
+    {
+      "nome": "Maquiagem",
+      "preco": "14.55",
+      "validade": "09/05",
+      "codigo": "002",
+      "id": 3
+    },
+    {
+      "nome": "Esmalte",
+      "preco": "09.90",
+      "validade": "12/12",
+      "codigo": "962",
+      "id": 4
+    }
+  ]
+}
